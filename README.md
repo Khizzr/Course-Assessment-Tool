@@ -2,6 +2,7 @@
 
 The **Course Assessment Tool** is a console-based software application developed in C# using structured programming techniques. Designed for academic environments, it automates the process of conducting multiple-choice question (MCQ) assessments. The application parses question sets from external text files, randomizes the order of question delivery, and records local performance metrics.
 
+V1-V5 are the stages of developments that the program reached, V5 is the COMPLETE version.
 
 ## Technical Architecture
 
