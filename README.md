@@ -35,5 +35,3 @@ The system processes source data files using a strict structural line-count fact
 4. **Line 4**: Option C
 5. **Line 5**: Option D
 6. **Line 6**: Target evaluation key (must evaluate strictly as uppercase `A`, `B`, `C`, or `D`)
-
-Thats it !
