@@ -21,7 +21,7 @@ The project is built on the .NET Framework and includes the following core artif
 * **Persistent Performance Logs**: Appends completion metrics locally to `history.txt`, recording raw scores, calculations, and completion timestamps.
 
 
-## File Path and Data Layout Constraints
+## File Path and Data Layout
 
 For runtime execution components to bind successfully, your assessment text assets must reside in the target debug build directory:
 
@@ -35,3 +35,5 @@ The system processes source data files using a strict structural line-count fact
 4. **Line 4**: Option C
 5. **Line 5**: Option D
 6. **Line 6**: Target evaluation key (must evaluate strictly as uppercase `A`, `B`, `C`, or `D`)
+
+Thats it !
